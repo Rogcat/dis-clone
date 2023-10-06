@@ -19,6 +19,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Used sites:
 
 https://docs.uploadthing.com - for storage files
-https://supabase.com - database 
+
+https://supabase.com - database
+
 https://clerk.com - for registration by email
 
